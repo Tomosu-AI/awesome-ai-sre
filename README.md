@@ -59,6 +59,7 @@
 
 - [Lightrun](https://lightrun.com) - AI SRE platform for autonomous code remediation that lets you add logs, snapshots, and metrics to production without restarts.
 - [Sentry Seer](https://sentry.io/product/seer/) - AI debugging agent built on production telemetry that identifies actionable issues, performs root cause analysis, and generates code fixes.
+- [Tomosu](https://tomosu.ai) - Production reliability governance platform that evaluates software changes using the Production Risk Index (PRI), analyzing dependencies, affected components, and potential blast radius before changes reach production.
 
 ## Incident Management
 

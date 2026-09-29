@@ -29,6 +29,7 @@
 - [Resolve AI](https://resolve.ai) - Autonomous SRE platform by OpenTelemetry co-creators that targets 80% autonomous resolution rate with parallel hypothesis investigation.
 - [Middleware OpsAI](https://middleware.io/product/ops-ai/) - AI SRE agent that detects issues across APM, RUM, Logs, and Kubernetes, traces errors to the exact line of code via GitHub MCP, and opens a PR with a fix or auto-applies it for Kubernetes without waking your on-call engineer.
 - [Cleric](https://cleric.ai) - Autonomous AI SRE teammate that investigates alerts 24/7 and delivers root cause analysis in Slack.
+- [Corelayer](https://corelayer.com) - Agentic production support platform that proactively investigates, resolves, and prevents incidents, with BYOC and on-prem support for regulated environments.
 - [NeuBird](https://neubird.ai) - Agentic AI SRE co-pilot for enterprise IT with LLM-powered telemetry analysis and 230K+ alerts resolved.
 - [Phoebe AI](https://phoebe.ai) - Predicts incidents from leading indicators and generates pre-emptive fixes using multi-agent AI swarms.
 - [Ciroos AI](https://ciroos.ai) - Multi-agentic AI SRE teammate built on MCP and A2A architectures for extensible cross-tool orchestration.
@@ -52,6 +53,7 @@
 - [Aurora](https://github.com/Arvo-AI/aurora) - Open-source (Apache 2.0) AI SRE agent that autonomously investigates incidents and delivers root cause analysis across AWS, Azure, GCP, and Kubernetes, with bring-your-own-LLM support including local models via Ollama.
 - [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
 - [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
+- [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - It acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
 
 ## AI Production Debugging
 
@@ -72,6 +74,7 @@
 - [Squadcast](https://squadcast.com) - Incident management with AI-driven alert clustering and automatic grouping of related incidents. Acquired by SolarWinds.
 - [Zenduty](https://zenduty.com) - On-call and incident management with AI Summarizer, AI Postmortem, and AI Scheduling. Acquired by Xurrent, rebranding to Xurrent IMR.
 - [BetterStack](https://betterstack.com) - Developer-friendly uptime monitoring and incident management with integrated observability.
+- [Spike](https://spike.sh) - Incident management and on-call platform, exposed to AI agents (Claude, ChatGPT, Cursor) through a remote MCP server.
 
 ## Observability Platforms
 
@@ -90,7 +93,7 @@
 - [Middleware](https://middleware.io) - Full-stack observability platform that detects issues across APM, RUM, logs, and infrastructure, and resolves them using OpsAI, an AI SRE agent that pinpoints root cause and auto-fixes issues with 70% automated resolution rate.
 - [Metoro](https://metoro.io/) - Kubernetes native observability platform with built-in eBPF telemetry, AI investigation, deployment verification and root-cause analysis.
 - [Radar](https://github.com/skyhook-io/radar) - Open source Kubernetes observability with topology, service traffic, and event timeline, plus a built-in MCP server and a 31-check best-practices audit for AI assistants.
-
+- [Aiden for Observability](https://stackgen.com/product/aiden-for-observability) - Unified observability platform with 300+ integrations, instant setup, and AI-powered root cause analysis that eliminates tool fragmentation.
 ## AIOps Platforms
 
 *Platforms that apply ML and AI to IT operations — correlating events, reducing alert noise, and automating operational workflows at scale.*
@@ -150,6 +153,7 @@
 
 *Tools leveraging large language models for natural language interaction with infrastructure, code generation for operations, and AI-assisted DevOps workflows.*
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile regression tests in CLI, MCP, and CI workflows.
 - [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt) - CNCF project for AI-powered Kubernetes diagnostics with SRE experience codified into analyzers and multiple LLM backends.
 - [HolmesGPT](https://github.com/HolmesGPT/holmesgpt) - CNCF Sandbox project providing a 24/7 on-call AI agent with agentic loop querying live observability data from Prometheus, Grafana, Datadog, and Kubernetes.
 - [Kube-Copilot](https://github.com/feiskyer/kube-copilot) - Open source natural language to Kubernetes operations with manifest generation and security scanning.
